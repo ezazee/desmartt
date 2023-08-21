@@ -109,7 +109,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-7">
                 <div class="copyright-wrap small-text">
-                    <p class="mb-0">&copy; ThemeTags Design Agency, All rights reserved</p>
+                    <p class="mb-0">&copy; Multikara Digital</p>
                 </div>
             </div>
             <div class="col-md-6 col-lg-5">

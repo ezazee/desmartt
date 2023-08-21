@@ -1,10 +1,5 @@
 "use strict";
 
-/*
-* Apdash v1.0.0 (https://themeforest.net/user/themetags)
-* Copyright 2020 Themetags
-* Licensed under ThemeForest License
-*/
 // TABLE OF CONTENTS
 //  1. preloader
 //  2. page scrolling feature - requires jQuery Easing plugin
@@ -18,6 +13,35 @@
 // 10. client-testimonial one item carousel
 // 11. monthly and yearly pricing switch
 // 12. coming soon count
+
+ $(document).ready(function () {
+     var owl = $("#owl-demo1");
+
+     owl.owlCarousel({
+         items: 3, //10 items above 1000px browser width
+         itemsDesktop: [1000, 3], //5 items between 1000px and 901px
+         itemsDesktopSmall: [900, 2], // 3 items betweem 900px and 601px
+         itemsTablet: [600, 1], //2 items between 600 and 0;
+         itemsMobile: [360, 1], // itemsMobile disabled - inherit from itemsTablet option
+     });
+
+     // Custom Navigation Events
+     $(".next").click(function () {
+         owl.trigger("owl.next");
+     });
+     $(".prev").click(function () {
+         owl.trigger("owl.prev");
+     });
+     $(".play").click(function () {
+         owl.trigger("owl.play", 1000);
+     });
+     $(".stop").click(function () {
+         owl.trigger("owl.stop");
+     });
+ });
+
+
+
 jQuery(function ($) {
   'use strict'; // 1. preloader
 

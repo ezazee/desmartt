@@ -321,6 +321,103 @@
             </div>
         </section>
 
+        <section class="our-blog-section ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-9 col-lg-8">
+                        <div class="section-heading text-center">
+                            <h2>Our Latest News</h2>
+                            <p>
+                                Efficiently matrix robust total linkage after market positioning bandwidth. Holisticly restore B2B materials rather than brand flexible paradigms vis-a-vis mission-critical e-commerce.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="assets/img/blog/1.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Appropriately productize fully</a></h3>
+                                <p class="card-text">Some quick example text to build on the card title and make up the
+                                    bulk.</p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="assets/img/blog/2.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Quickly formulate backend</a></h3>
+                                <p class="card-text">Synergistically engage effective ROI after customer directed
+                                    partnerships.</p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="single-blog-card card border-0 shadow-sm mt-4">
+                            <div class="blog-img position-relative">
+                                <img src="assets/img/blog/3.jpg" class="card-img-top" alt="blog">
+                                <div class="meta-date">
+                                    <strong>24</strong>
+                                    <small>Apr</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div class="post-meta mb-2">
+                                    <ul class="list-inline meta-list">
+                                        <li class="list-inline-item"><i class="fas fa-heart mr-2"></i><span>45</span>
+                                            Comments
+                                        </li>
+                                        <li class="list-inline-item"><i class="fas fa-share-alt mr-2"></i><span>10</span>
+                                            Share
+                                        </li>
+                                    </ul>
+                                </div>
+                                <h3 class="h5 mb-2 card-title"><a href="#">Objectively extend extensive</a></h3>
+                                <p class="card-text">Holisticly mesh open-source leadership rather than proactive
+                                    users. </p>
+                                <a href="#" class="detail-link">Read more <span class="ti-arrow-right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
         @include('components.user.footer.footer')
     </div>
