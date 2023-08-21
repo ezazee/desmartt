@@ -6,4 +6,5 @@
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
-<title>Laravel</title>
+<!--favicon icon-->
+<link rel="icon" href="assets/img/favicon.png" type="image/png" sizes="16x16">
